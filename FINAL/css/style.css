@@ -1,0 +1,152 @@
+.header a {
+  margin: 5px;
+  border: none;
+}
+
+.header a:hover {
+  background-color: red;
+}
+
+.imgs {
+  background-image: url(https://quattro.true-emotions.studio/wp-content/uploads/2018/11/bg1.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 12rem 0;
+}
+
+.box1 {
+  background-image: url(https://quattro.true-emotions.studio/wp-content/uploads/2018/12/xl-red.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 12rem 0;
+}
+
+.box2 {
+  background-image: url(https://quattro.true-emotions.studio/wp-content/uploads/2018/11/qqq.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 12rem 0;
+}
+
+.icons img {
+  width: 33%;
+}
+
+.icons h3 {
+  font-size: 22px;
+}
+
+.icons a {
+  border: 1px solid;
+  padding: 10px 12px;
+  background: #ff3837;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+.cars {
+  padding-top: 80px;
+}
+
+.cars .text1 {
+  padding: 12px;
+}
+
+.cars .text1 a {
+  color: black;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.cars .TEXT {
+  padding: 10px 12px;
+  background: black;
+}
+
+.cars .TEXT span {
+  color: #ffffffff;
+  margin: 18x;
+}
+
+.cars .photo {
+  margin: 12px;
+}
+
+.cars .text {
+  padding: 20px;
+}
+
+.cars .text p {
+  padding: 10px;
+}
+
+.About {
+  background-image: url(https://quattro.true-emotions.studio/wp-content/uploads/2019/07/bg3.jpg?id=1919);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 18px 16px;
+}
+
+.About .tabText a {
+  border: 2px solid;
+  padding: 10px 21px;
+  background: red;
+}
+
+.Kartinka .col-lg-3 img {
+  border: 1px solid;
+}
+
+.avtosalon .box {
+  padding: 0;
+}
+
+.avtosalon .box:hover {
+  background: black;
+}
+
+.avtosalon .box:hover img {
+  -webkit-filter: grayscale(0);
+          filter: grayscale(0);
+}
+
+.avtosalon .box img {
+  -webkit-filter: grayscale(1);
+          filter: grayscale(1);
+}
+
+.About {
+  position: relative;
+}
+
+.About .Ic {
+  position: absolute;
+  top: 0 px;
+  bottom: -70px;
+}
+
+.team-img {
+  position: relative;
+}
+
+.team-img .texts {
+  position: absolute;
+}
+
+.counter {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.clears {
+  padding-top: 150px;
+}
+
+.future {
+  background-image: url(https://quattro.true-emotions.studio/wp-content/uploads/2019/07/bg3.jpg?id=1919);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 18px 16px;
+}
+/*# sourceMappingURL=style.css.map */
